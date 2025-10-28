@@ -1,0 +1,266 @@
+Faux Grid Master starting route (Further Optimized)
+Version 4.3
+
+XP tiles: Middle Row/Column, Barrows (def from DS2 exp rewards), Lunar chest (Jad unlocks), Arraxor (92 Slayer) 
+XP Lamps: 500 total (25k Hunter), 1500 total (100K)
+Combat mastery: Scurrius, Bryo, 4x row completions
+
+Gatherer: Thieving/Slayer/Agility
+Craftsman: Construction/Cooking/Herblore
+Combatant: Strength/Ranged/Prayer
+
+Power miner, Teleports, Basic tile sequence
+- Complete tutorial
+- Choose Power miner
+- Count check to stronghold, equip dramen staff, shield
+- Pick up 4-6 Meat (hop worlds) in long hall to the north
+- Stronghold all 4 floors to Fancy boots, claim Fairy's flight (If you're doing this after the initial release, pick up 2-3 world hops of Cooked meat in the house to the north before going into the stronghold)
+- Take vine upstairs
+- Mine Tin ore for 15 mining
+- Run to Varrock east bank
+- Fairy's flight Gnome Stronghold spirit tree. Throw 1 gnomeball 
+- Fairy's flight Tool leprechaun to Aldarin
+- Run South to Mistrock bar, pick up Steamforge brew and drink. 
+- Fairy's flight to Grand Exchange, claim Sage's greaves and Banker's briefcase
+- Banker's briefcase to Rionasta
+- Run south to the Scorched earth from Jungle Potion, search 3 for herbs. Clean herbs (https://i.imgur.com/XL5m89K.png)
+- Banker's briefcase to Varrock east
+- Claim Friendly Forager
+
+Combat start, Gatherer sequence
+- Deposit all, withdraw coins, air runes, mind runes, Power miner axe, mushroom, briefcase, forager, food
+- Buy 2 mind pack, 50 chaos runes, 2 water packs, Air staff, HAMMER at general store, pink skirt at clothing shop
+- Fairy's flight tele to Kastori North
+- Run north, hop worlds to a world where Gemstone crab isn't at the Northern location (no Iron ore). Train mining at Iron until Crab burrows. 
+- Unlock gatherer relic. Use on Thieving, Agility, Slayer 
+- Fairy's flight to DIS
+- Kill Lesser Demon downstairs with WATER SPELLS (single combat). Safespot through fence
+- Banker's briefcase draynor bank
+- Buy 15 wines from Fortunado
+- Start Vampire slayer at Morgan
+- Grab garlic upstairs from cupboard
+- Banker's briefcase to Varrock east
+- Run to Blue Moon Inn
+- Buy a beer
+- Speak to Harlow to get stake
+- Fairy's flight Leprechaun to Draynor manor patch
+- Kill count draynor with magic
+- Unlock Vamp Slayer reward
+
+Golden God, Gold Ore, First Horizontal Column Reward Sequence
+
+- Banker's briefcase to Varrock east, thieve Tea stall to 25 thieving (same xp as cake)
+- Banker's briefcase to Hosidius, run east to fruit stalls (in house, don't use market)
+- Thieve fruit stall once, unlock dodgy deals
+- Continue Fruit stall to level 36. Keep 1 Jangerberry
+- Fairy's Flight Leprechaun to Aldarin, go upstairs in house to the northwest. Thieve from chest (spam click) to 45
+- Fairy's flight Leprechaun to Varrock tree patch
+- Pickpocket Guards upstairs in castle for best AoE loot to level 50 
+- Banker's Briefcase to Civitas illa fortis west
+- Steal valuables in Wealthy citizen house to unlock Golden God
+- Banker's briefcase last destination 
+- Varlamore Blacksmith, buy and alch mith/addy platebodies until 200k cash. Pickpocket guard outside while you alch. Spend full cash stack on addy platebodies after 200k. 
+- Fairy's flight Leprechaun to Locus Oasis
+- Alch gold leaf at Stonemason for Production Prodigy relic
+- Claim MIDDLE HORIZONTAL COLUMN REWARD (+200% Exp)
+- Train mining at Iron to the south while alching Gold Leaves (buy no more than 5 at once, more gets too expensive. Never shift click buy 50)
+- Mine until level 37, special attack with pickaxe, mine gold ore. Buy more gold leaves every time you run out of leaf stack.
+- Goal for 99 con: ~5m gp+
+
+Woodcutting, Combatant, Crafting sequence
+- Bankers briefcase to Al Kharid
+- Claim lumberjack axe at bank. Set axe option to "fletching"
+- Fairy's flight to tele to DJP
+- Cut trees, oak trees, willow trees to 35 WC. Spam click tree to continue alching
+- Fairy's flight Leprechaun to Locus Oasis
+- Set lumberjack axe to Firemaking, cut teaks to 42
+- Fairy ring to CIR. Spec with Lumberjack axe, cut maple tree
+- Banker's briefcase to Al Kharid, claim Harpoon
+- Fairy's flight to Port Sarim leprechaun
+- Go to Betty, Buy eye of newt, as many chaos/death/elemental runes as you want (I'm buying 5k+ each).
+- Run to Port Sarim fishing shop, buy a few bait packs, 20k+ feathers
+- Buy 10 buckets of sand/soda ash at charter for crafting start
+- Banker's briefcase to Corsair cove
+- Deposit Sand/Soda ash
+- Kill Ogress warrior with best earth spell in safespot. Defensive cast.
+- Banker's Briefcase to Edgeville
+- Claim combatant, Choose Ranged/Strength/Prayer 
+- Deposit all, withdraw coins, banker's briefcase,  9 buckets of sand/soda ash. make molten glass for 8+ crafting
+- Banker's briefcase to mage bank. Buy 1k+ Law runes, buy 50 cosmic runes
+- Banker's briefcase to Aldarin
+- Bank all, withdraw coins, buy chisel at gen store to northeast
+- Train crafting at gem shop. Buy Sapphires at 8, Emeralds at 15 (Emeralds are faster than rubies for crafting xp/hr because of purchase speed. I'll stop at 50 for now. Buy 1 ruby for str ammy.)
+
+Tempoross sequence for Craftsman
+- Banker's briefcase to Al Kharid
+- Withdraw Harpoon, Fishing bait, Feathers
+- Fish Shrimp to the south of Al Kharid bank to level 5
+- Bait fish at shrimp spot to level 20
+- Fairy's flight Leprechaun to Lumbridge, fish trout/salmon to 35
+- Banker's briefcase to Unkah
+- Complete 1 Tempoross. Bring Echo harpoon, grab rope once you're on boat.  
+- Unlock Craftsman, I'm choosing Construction/Herblore/Cooking
+
+Cooking, Corrupted Shark
+- Banker's briefcase to Piscarillius
+- Buy 50 sardine, cod, tuna, lobster, 600+ swordfish, 1+ raw shark
+- Banker's briefcase to Shayzien 
+- Run to clothing shop (east of south shayzien bank), buy chef's hat
+- Banker's briefcase to Rogues den
+- Cook food at fire for 68 cooking
+- Cook 1 shark
+- Claim Corrupted shark
+
+Prayer -> Ranged gear -> Bryophyta sequence
+- Banker's briefcase Varrock east
+- Buy studded body from Horvik in Varrock 
+- Fairy's flight leprechaun to Champion's guild get green dhide chaps/vambs, rune platelegs and chain
+- Banker's briefcase Varrock west
+- Deposit all, withdraw hammer, steel bars
+- Smith 2 inventories of Steel knives with steel bars, rest on dart tips
+- Banker's briefcase Ourania
+- Train pray at altar upstairs to 60 ranged (~67 prayer + Combatant split). Use coins on altar.
+- Kill Scurrius (steel knives). Use Corrupted shark (unlimited food). Train HP to 40+ first if you expect to struggle with this. (use private instance is 500hp vs public's 1500) 
+- Kill moss giants for mossy key (Wildy has better drop rates, varrock sewers, karamja, kourend catacombs, or giants den otherwise)
+- Kill bryophyta (bring an axe) for +1 Combat mastery tile, unlock 9x exp
+
+9x exp rate unlocked
+
+Hunter, DS2 unlock for 70 Defence
+- Use 25k Exp lamp in Hunter (boosts to 58, skips early slow levels)
+- Catch grey chins in Kourend woodland until 63
+- Catch red chins in Feldip hills or Varlamore until 73
+- Banker's briefcase to Hunter's guild
+- Go downstairs, pick up Trapper's tipple
+- Run south of hunter's guild. Drink tipple, catch sunlight moth 
+- Unlock DS2 from moth reward
+- Banker's briefcase to Myth guild
+- Talk to Ellen on ground floor for 4x 25k combat rewards (Use 3x in Defence (level 69), 1x in Attack)
+- Chin longrange at Dark warriors castle to finish 70 Def
+
+Barrows sequence
+- Banker's briefcase to Yanille
+- Buy full mystic in Mage guild (not boots)
+- Complete Witch's house for HP exp (cheese in Draynor, gloves at Varrock clothes shop)
+- Banker's briefcase to Arceuus, run east to gen store. Buy blood/soul runes.
+- Banker's briefcase to Burg de rott
+- Complete barrows until 2x items (Air spells on defensive to finish 70 def)
+- Wear the first barrows item you get to complete task (loot chest while wearing barrows item)
+- Claim +200% experience reward
+
+Fruit tree sequence
+- Check bank for nests, open for low level fruit tree (apple, banana)
+- If none, kill mammoths southeast of Ferox Enclave for Apple or Banana seed
+- Buy Bagged yew trees from Fally park Garden supplier
+- Plant in Garden in PoH for fruit tree farming level
+- Plant at any fruit patch (~3.5 hours to grow)
+
+Construction sequence
+- Banker's briefcase to Piscarillius
+- Buy 11,100 Raw Sharks
+- Cook sharks in Rogue's den for 26m cooking, 13m Construction, 13m Herblore
+- build demonic throne (25m GP) 
+- Claim Thunder khopesh
+- Buy 99 Construction cape
+- Make 4 oak, 4 teak planks
+- Build Costume room in POH, make teak rack
+- Hang cape on rack, claim Spiky aura
+
+Strength/amulet, Onyx amulet, Gear sequence
+- Fairy ring to CKQ
+- Deposit all, cut emeralds to level 78 Crafting
+- Buy 18k death runes from any mage shop
+- Fairy ring to BLP, sell death runes to rune shop
+- Buy 1x uncut Onyx 
+- Tele to Varrock
+- Buy rune legs, Rune chain from champs guild
+- Buy addy/mith full helm in Barbarian village
+- Tele to house
+- Buy Amulet mould from crafting shop (southern house)
+- Teleport to Ardy (minigame tele Fishing Trawler if tele isn't unlocked)
+- Buy 2x balls of wool from General store. 
+- Withdraw 2x gold bar
+- Make & enchant Ruby amulet, Onyx amulet (enchant once 84 mage + wizard mind bomb)
+- Follow Tile Order at the bottom, you're on your own feller
+
+
+
+
+Achievement Diary tech
+- Train Thieving:
+- 50-75 at Silver Stall
+- 75-99 at Gem stall (92 agility, 92 Slayer)
+- Kill Arraxor for unique for +200% Experience
+- Complete Floor 5 of Hallowed Sepulchre to unlock every Achievement diary
+- Claim diary lamps from all Achievement Diary NPCs (only claim lamps once ALL Experience bonuses are unlocked)
+
+- Fletching training:
+- Broad bolts + feathers after Jal Zek Task (0 time)
+- Buy Steel-Rune Arrowheads + Arrow Shafts from Ranging guild, Feathers from Fishing shop 
+
+25k Lamp: Hunter
+100k Lamp: Runecraft
+Easy/Medium Diary lamps: Farming
+
+Lizard Shaman tile tips: Use a Maple Shortbow + Adamant Arrows, or Obby Rings. Stand at max distance, run 3 tiles away from poison splat to avoid damage. 
+
+Torstol tip: Gather with Friendly Forager after Construction sequence (high Herb level helps). Kill Monk of Zamorak near Ourania altar for Zammy Top/Bottom. Make potion at SOUTHEASTERN VARROCK ALTAR (near mage shop)
+
+Twisted Bow tips: 0-150 Invocation ToA for Megarare (nearly guaranteed Thread of Elidinis/gem, which unlocks the tile)
+
+Jad kill unlocks Perilous Moons. Can kill 1 moon and loot chest to complete tile.
+
+Huey tips: Try to get a small 3-5 man team. Masses are bad for loot. 
+
+
+Tile order in 13 Hour 36 Minute run:
+
+Tutorial: Power miner
+Equip any boots from the Stronghold of Security: Fairy's flight
+Throw a gnomeball: Sage's greaves
+Drink a Steamforge brew within the Stick Your Ore Inn: Banker's briefcase
+Clean Grimy Herbs: Friendly Forager
+Witness the Gemstone Crab burrow away: Gatherer - Thieving, Agility, Slayer
+Defeat the Lesser Demon in the Wizards' Tower: Minimum potential
+Complete the Vampyre Slayer quest: Unlocks Sins of the Father
+Steal from a Fruit Stall: Dodgy deals
+Obtatin some Valuables from a house in Varlamore: Golden god
+Gain over 30,000 coins from one Alchemy spell: Production prodigy
+Mine Gold Ore: Lumberjack
+Chop Maple Logs: Animal wrangler
+Kill an Ogress: Combatant - Ranged, Prayer, Strength
+Reach 500 total level: 25k XP lamp (Hunter - Save until +800% Xp - Hunter 1-58)
+Subdue Tempoross: Craftsman - Cooking, Construction, Herblore)
+Cook a shark while wearing a Chef's hat: Corrupted shark
+Defeat Scurrius: +1 Combat mastery
+Defeat Bryophyta: +1 Combat mastery
+Catch a Moth barehanded: Unlocks Dragon slayer 2. Claim 3x Def, 1x Att exp from "Ellen" in Myth's
+Obtain a rare Unique from the Barrows Chest, while wearing some rare Barrows Equipment: +200% XP
+Check a grown Fruit Tree (Plant here, check later after 3.5 hours): Farmer's fortune
+Build a Demonic throne in your Player Owned House: Thunder Khopesh
+Deposit a Skillcape into your Player Owned House: Spiky aura
+Make a Zamorak Brew while wearing Zamorak Monk Robes at the Varrock Chaos Altar
+Equip an Amulet of Fury (Make now, Enchant later): Unlocks Desert treasure 2
+Defeat Kalphite Queen: Drygore blowpipe
+Kill a Lizard Shaman in the Lizardman Temple: Unlocks Song of the Elves
+Complete the Corrupted Gauntlet: Bankers note
+Obtain a rare drop from Vorkath: Grimoire
+Reach 1500 total level: 100k XP lamp (Save until +1400% XP - Runecraft 1-75)
+Defeat TzTok-Jad: Unlocks The final dawn
+Open the Lunar Chest: +200% XP
+Defeat Jal-Zek within the Inferno: Slayer Master
+Obtain a rare unique from Tombs of Amascut: Mega rare scroll (Twisted Bow)
+Obtain a rare drop from Chambers of Xeric: Mega rare scroll (Scythe)
+Fully Decorate a Magic totem in the Auburn Valley: Devil's Element
+Obtain a rare drop from The Hueycoatl: Unlocks While guthix sleeps
+Equip a unique item from God Wars Dungeon: Total Recall
+Defeat Zulrah with a blowpipe: Unlocks Monkey madness 2
+Complete floor 5 of The Hallowed Sepulchre: All achievemnt diaries (Can claim XP lamps from all)
+Obtain a rare unique from Arraxor: +200% XP
+Obtain a rare unique from Yama: Last stand
+Defeat Sol Heredit: Specialist
+Defeat the Doom of Mokhaiotl at depth 8 or deeper: Avernic Treads (Max)
+Obtain a rare unique from Theatre of Blood: Mega rare scroll (Tumeken's shadow)
+Complete the Inferno in 30 minutes or less: Guardian
+Reach 2000 total level: All Combat Achievements
+Defeat all 4 Awakened bosses: Battlehat

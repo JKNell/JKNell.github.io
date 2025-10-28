@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Grid Master Route Checklist</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <!-- Fixed Header -->
+  <div id="header">
+    <div id="topControls">
+      <button id="nextStepButton">Next Step</button>
+      <label class="autoScroll">
+        <input type="checkbox" id="autoScrollToggle">
+        <span class="slider"></span>
+        <span class="toggleLabel">Auto Scroll</span>
+      </label>
+      <h1 id="headerTitle">Grid Master Route Checklist</h1>
+      <div id="rightButtons">
+        <button id="showLoadButton">Load Route</button>
+        <button id="darkModeToggle">🌙 Dark Mode</button>
+      </div>
+    </div>
+    <!-- Hidden input field -->
+    <div id="controls">
+      <input id="sourceInput" type="text" placeholder="Enter a raw Pastebin URL">
+      <button id="loadButton">Load Route</button>
+    </div>
+  </div>
+
+  <!-- Scrollable checklist -->
+  <ul id="checklist">
+    <li>Click “Load Route” above and enter a raw Pastebin URL to start</li>
+  </ul>
+
+  <script src="checklist.js"></script>
+</body>
+</html>

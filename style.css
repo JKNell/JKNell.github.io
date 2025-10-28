@@ -1,0 +1,215 @@
+:root {
+  --bg-color: #f8f8f8;
+  --text-color: #111;
+  --card-bg: rgba(255, 255, 255, 0.9);
+  --shadow: rgba(0,0,0,0.05);
+  --accent: #0078d4;
+  --highlight: #fff3c4;
+}
+
+body.dark {
+  --bg-color: #121212;
+  --text-color: #e0e0e0;
+  --card-bg: rgba(49, 49, 49, 0.9);
+  --shadow: rgba(0,0,0,0.3);
+  --accent: #4dabf7;
+  --highlight: #3a3a00;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  margin:0;
+  padding:0 20px 50px 20px;
+  color: var(--text-color);
+  line-height:1.5;
+  background: url('background.jpg') no-repeat center center fixed; 
+  background-size: cover;
+  transition: background-color 0.3s,color 0.3s;
+}
+
+h1 { text-align:center; margin:20px 0; }
+
+ul {
+  list-style:none;
+  padding-left:0;
+  max-width: 90%;
+  margin:0 auto;
+}
+
+li {
+  margin:5px 0;
+  background: var(--card-bg);
+  border-radius:8px;
+  padding:8px 12px;
+  box-shadow:0 1px 2px var(--shadow);
+  display:flex;
+  flex-direction:column;
+  gap:4px;
+  transition: background-color 0.3s, transform 0.2s;
+}
+
+li.highlight {
+  background-color: var(--highlight);
+  transform: scale(1.02);
+}
+
+label { display:flex; align-items:center; cursor:pointer; gap:8px; flex-wrap:wrap; }
+input[type="checkbox"] { transform: scale(1.2); accent-color: var(--accent); }
+ul ul { margin-top:4px; margin-left:24px; padding-left:10px; box-shadow:none; }
+
+
+/* Fixed header */
+#header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  background: var(--card-bg);
+  padding: 5px 20px;
+  box-shadow: 0 2px 5px var(--shadow);
+  z-index: 1000;
+  display: flex;
+  flex-direction: column;
+  gap: 0;
+  max-height: 100%;
+  overflow: visible;
+}
+
+/* Top controls layout */
+#topControls {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 50px;
+  padding: 0px 40px;
+}
+
+/* Title centered */
+#headerTitle {
+  flex: 1;
+  text-align: center;
+  margin: 0;
+  font-size: 1.1em;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+/* Right-aligned buttons */
+#rightButtons {
+  display: flex;
+  gap: 10px;
+}
+
+/* Buttons style */
+#topControls button {
+  background: var(--accent);
+  color: #fff;
+  border: none;
+  border-radius: 6px;
+  padding: 6px 12px;
+  cursor: pointer;
+  transition: 0.2s;
+  box-shadow: 0 1px 2px var(--shadow);
+}
+
+#topControls button:hover {
+  background: #005fa3;
+}
+
+/* Slide-down input field */
+#controls {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  overflow: hidden;
+  max-height: 0;
+  opacity: 0;
+  transition: max-height 0.3s ease, opacity 0.3s ease;
+}
+
+#controls.show {
+  max-height: 150px;
+  opacity: 1;
+}
+
+#controls input {
+  width: 300px;
+  padding: 6px 8px;
+  border-radius: 6px;
+  border: 1px solid var(--shadow);
+  background: var(--card-bg);
+  color: var(--text-color);
+}
+
+#controls button {
+  background: var(--accent);
+  color: #fff;
+  border: none;
+  border-radius: 6px;
+  padding: 6px 12px;
+  cursor: pointer;
+}
+
+#controls button:hover {
+  background: #005fa3;
+}
+
+/* Push checklist below header */
+#checklist {
+  margin-top: 100px; /* adjust for header height + input field */
+  list-style: none;
+  padding-left: 0;
+  max-width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.autoScroll {
+  position: relative;
+  display: inline-flex;
+  align-items: center;
+  gap: 10px; /* space between slider and text */
+}
+
+.autoScroll input {
+  opacity: 0;
+  width: 0;
+  height: 0;
+}
+
+.autoScroll .slider {
+  position: relative;
+  width: 50px;
+  height: 28px;
+  background-color: #ccc;
+  border-radius: 28px;
+  transition: 0.4s;
+  cursor: pointer;
+}
+
+.autoScroll .slider:before {
+  content: "";
+  position: absolute;
+  height: 22px;
+  width: 22px;
+  left: 3px;
+  bottom: 3px;
+  background-color: white;
+  border-radius: 50%;
+  transition: 0.4s;
+}
+
+.autoScroll input:checked + .slider {
+  background-color: #4caf50;
+}
+
+.autoScroll input:checked + .slider:before {
+  transform: translateX(22px);
+}
+
+.autoScroll .toggleLabel {
+  font-family: sans-serif;
+  font-size: 14px;
+  user-select: none;
+}
