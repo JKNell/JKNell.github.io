@@ -1,0 +1,120 @@
+These notes are not perfect. Since this is a new addition to the game, anything here may be wrong and may need adjusting based on xp rates or other general incorrect assumptions. Please don't take it as a verbatim guide, it's just meant to point you in the right direction and provide basic structure to your route. 
+
+If you're late to Sailing or just want to follow along, I'll have daily highlight videos of my progression on my Youtube channel: Youtube.com/FauxFreedom. Thanks & enjoy! 
+
+
+
+
+Starting Sailing (1-30)
+
+-Complete Pandemonium quest
+-Speak to shipwright to customize boat - Add cargo hold to boat (8 planks, 32x bronze nails)
+
+-Accept Pandemonium to Port Sarim courier task at Notice Board.
+-Go to boat, deposit cargo into cargo hold, withdraw spyglass
+-Follow RED Route to Port Sarim, chart locations marked along the way (https://i.imgur.com/iAiVlxa.png)
+-When sailing, "trim" your sails when available for xp drop
+-Withdraw cargo from cargo hold, turn in courier task in Port Sarim
+
+-Once >Level 5, Speak to shipwright to move boat to Lands End
+-Teleport to Lands End (Rada Blessing - Kourend Woodland) 
+-Accept Lands end to Hosidius courier task at Notice board
+-Follow GREEN route to Hosidius, chart locations marked along the way (https://i.imgur.com/9BHpCXI.png) (Check charting levels if released, may not be possible yet. If not high enough, just run Courier task with no charting) 
+
+-Once >level 10, Speak to shipwright to move boat to Musa point
+-Teleport to Karamja (Amulet of glory) or travel to Musa Point from Port sarim (30gp)
+-Accept Musa point to Pandeomium courier task at Notice board (Get 2 between these locations if possible)
+-Follow ORANGE route to Pandemonium. Chart locations marked along the way. Skip location near mudskipper point (Can do after Prying times) (https://i.imgur.com/iAiVlxa.png)
+
+
+-Once level 12, Complete Prying times (Hammer (Imcando doesn't work), Steel bar, Redberry pie)
+
+-If not level 15 yet, continue courier tasks to/from Musa Point.
+
+Once level 15: 
+-Buy skiff from Shipwright (Junior Jim, Shipwright Sam, Shipwright Sally)
+-Decide how much you want to upgrade your Skiff. If salvaging, you can probably get away with just building a cargo hold and bronze salvaging hook. If traveling waters for courier tasks, you may want to upgrade to be able to increase speed/tank NPCs.
+-Make 5x Bolt of linen (15 flax > Ball of linen at spinning wheel, 15x Ball of linen > 5 Bolt of linen at -loom)
+-Make 10x Wooden hull parts
+-Make 10x Bronze keel parts
+-Talk to shipwright to go to boat customiztaion
+
+If doing courier tasks 15-30
+Withdraw saw, hammer, bronze nails, swamp tar
+-Build Wooden skiff: 10x Wooden hull parts, 300x bronze nails, 20 swamp tar
+-Build Bronze Skiff helm: 3x planks, 6x bronze bars
+-Build Wooden mast and linen sails: 10x logs, 40x bronze nails, 5x Bolt of linen
+-Build Bronze skiff keel: 10x Bronze keel parts
+-Build bronze salvaging hook: 4x planks, 16x bronze nails, 6x bronze bars, 1x rope
+-Build basic cargo hold: 8x planks, 32x bronze nails
+
+If salvaging 15-30
+Withdraw saw, hammer, bronze nails
+-Build bronze salvaging hook: 4x planks, 16x bronze nails, 6x bronze bars, 1x rope
+-Build basic cargo hold: 8x planks, 32x bronze nails
+
+From here there are 3 primary options
+
+AFK Option: Salvage small shipwreck in the Kharidian sea east of Pandemonium to level 26. Talk to shipwright to move boat to Brimhaven. Sail west of Tai bwo wannai to Fisherman's salvage to lv 30.
+Tryhard option: 2t Salvage small shipwreck (regular tick manip supplies, like knife + teak log). Talk to shipwright to move boat to Brimhaven. Sail west of Tai bwo wannai to Fisherman's salvage to lv 30
+Sailor option: Continue courier tasks to level 30
+
+If salvaging, dropping the salvage loot is probably more ideal than keeping it in the early levels
+
+If courier tasks:
+-Accept multiple tasks to the same port when available to maximize experience. Follow these routes 1 time at each level threshold, then do direct routes prioritizing higher level ports/multiple tasks to the same location for larger exp drops.
+
+Level 15: Purple charting route (Hosidius to Piscarillius) https://i.imgur.com/Yv6tEU6.png
+Level 20: Burgundy charting route (Rimmington to Catherby) https://i.imgur.com/xDkAoOo.png
+Level 25: Pink charting route (Catherby to Brimhaven) https://i.imgur.com/xDkAoOo.png
+ 
+Level 30: Enjoy the Baraccuda trials. GL on your adventure. Make sure your boat is further upgraded, continue to upgrade as you level through the trials wherever you see fit.
+
+
+
+
+Extra notes:
+
+Once the update goes live on Wednesday, check to see if you can make these. (2 hour dead period until skill is available)
+
+Create Mahogany repair kits in Port Khazard (Closest bank/workbench)
+10 Iron Keel parts
+10 Oak Hull parts
+10 Teak Hull parts
+10 Mahogany Hull parts
+10 Steel Keel parts
+10 Mithril Keel parts
+10 Rune Keel parts
+32 Mahogany Hull parts
+32 Large Steel Kill Parts
+32 Large Mithril Keel Parts
+32 Large Adamant Keel parts
+32 Large Rune keel parts
+45 Linen yarn
+15 Bolt of linen
+
+- When mining Lead, bring superheat runes to save inventory space between bank trips (2 ore per bar)
+- Prioritize Lead mining once you get to a location with it, may be a small bottleneck with resource competition. Goal before 47: 22 lead bars
+
+
+
+
+full camphor skiff supplies:
+53 camphor planks
+10 camphor logs
+340 adamant nails
+56 addy bars
+20 swamp tar
+10 lead bars
+5 bolts of canvas
+
+Full camphor sloop supplies:
+404 Camphor planks
+15 Camphor logs
+660 Adamant nails
+408 addy bars
+25 Swamp tar
+5 lead bars
+10 bolts of canvas
+
+
