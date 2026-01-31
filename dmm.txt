@@ -1,0 +1,161 @@
+Scroll until you find what you're looking for. GL in DMM!
+
+
+
+
+Ranged start: Green dragons/Zombie pirates
+
+-Spawn grand tree (+190 points)
+-Do 1 lap of gnome stronghold (lv 10 agil, jump start litheness) (+45 points)
+-Spirit tree GE (+25 points)
+-Spirit tree Gnome (+25 points)
+-Spirit tree GE
+-Unlock/activate Litheness, Claim AND ATTUNE Ruthless ranger at bank (Equipment tab, top left) 
+-Take shortcut to fairy ring
+-Fairy ring to BIS AIR ALS DIS (+100 points)
+-Complete stronghold 3 floors for 10k gp (+15 points)
+-Chronicle tele, enter champs guild and leave (+25 points)
+-Run to Lowe's archery shop, buy dorg crossbow and as many bone bolts as possible
+-Run to Varrock east bank, unlock and attune Consistency
+-Get 20 ranged on rats w/ starter bow (+110 points)
+-Claim museum lamps upstairs at Historian minas
+-Use 1x museum lamp on ranged for 30, save the other (+50 points)
+-Run to Varr east, unlock deft strikes. 
+-Run to any green dragons in wilderness
+-Kill 3 green dragons, loot bones (~5 mins). 
+-Run to 38 wild Chaos altar with 6 bones
+-Use bones for 37+ pray. Use lamp on pray if you didn't get 37. Use on anything if you did.
+-Run to 13 wild Chaos altar
+-Kill zombie pirates for remaining protection
+-If too crowded, consider leaving for:
+	-Wilderness slayer (complete varrock museum before Krystilia task)
+	-Green/Blue dragons
+
+
+
+
+Magic start: 
+
+-Spawn grand tree (+190 points)
+-Do 1 lap of gnome stronghold (lv 10 agil, jump start litheness) (+45 points)
+-Spirit tree GE (+25 points)
+-Spirit tree Gnome (+25 points)
+-Spirit tree GE
+-Unlock/activate Litheness, Claim AND ATTUNE Menacing mage (Equipment tab, top left)
+-Fairy ring to BIS AIR ALS DIS (+100 points)
+-Chronicle tele
+-Enter champions guild (+25 points)
+-Run to stronghold of security (hit things as you run for extra exp, early DMM points are good)
+-Complete 3 floors for 10k gp (check first floor portal, it may work) (+15 points)
+-Chronicle tele after 10k gp 
+-Run to varrock
+
+Choose your training location: 
+
+Blue dragons: 50% Water weakness. Decent mage levels, Decent loot. Loot dragon bones to sell on GE
+Locations: Isle of souls dungeon (BJP, run southeast), Taverly dungeon (can use shortcut w/ litheness)
+
+Lava dragons: 50% Water weakness. Decent mage levels. Big loot. Bury lava drag bones for pray exp, Loot alchables/sellable GE items
+Locations: Lava drag isle
+
+Fire giants: 100% Water weakness. Faster mage levels, less loot. Loot rune scim, fire bstaff, rune arrows to sell on GE
+Locations: Isle of souls dungeon (BJP, run southeast), Waterfall dungeon, Karuulm slayer dungeon, Giants' den, Deep wilderness dungeon
+
+Ice giants: 100% Fire weakness. Faster mage levels, nearly no loot, low competition. Keep addy/mith drops to sell on GE or alch
+
+-Buy staff from varrock based on your next step. Air always good. Water if going blue/lava/fire giants. Fire if going Ice giants.
+-Buy 800 mind runes, 500 air OR fire OR water runes from rune shop, based on which staff you bought (If you're going to an NPC with water weakness, buy Air staff, mind/water runes or Water staff, mind/air runes)
+-Unlock consistency, deft strikes at East bank
+-Move to your chosen training location and stay until protection runs out. Give yourself time to get to a safe zone. If you went to dragons, consider going to wildy altar for 43 prayer before protection. 
+-If you finish 60 mage, complete mage arena with safespot method, alch staff for 48k gp.
+Go to Varrock museum, claim 2 lamps and use on skills of your choosing
+
+
+
+
+
+
+Moneymaking start:
+
+-Varrock spawn
+-Click deadman skull, unlock Deception sigil. Attune it in your inventory.
+-If this is a moneymaking alt, run to Varrock museum and claim 2 lamps from Historian minas. -Use on thieving. (Don't waste on thieving if this is your main account)
+-Run to varlamore quetzal
+-Run to southern central Varlamore gate. 
+-Pickpocket Citizen for 10 thieving
+-Pickpocket Farmer (southeast) for 40 thieving
+-Pickpocket Guard at gate for 50 thieving
+-Pickpocket Wealthy citizens for the remaining hour of protection 
+	-(~190k+ gp, ~80 Thieving, +550 points) 
+-Bank GP before protection runs out
+
+
+
+
+
+Starting gear:
+30 untradeable tuna in the bank, 12 untradeable tuna in the inventory
+A chronicle with 10 teleport cards
+A looting bag
+A Starter sword, Starter bow, and Starter staff
+A Deadman's Chest, Deadman's legs, and Starter Cape
+A dramen staff
+
+Multipliers:
+3-60: 10x Combat xp, 10x Skilling xp, 3x Drop rate
+61-80: 15x Combat xp, 10x Skilling xp, 3x Drop rate
+81-95: 15x Combat xp, 10x Skilling xp, 4x Drop rate
+96-126: 20x Combat xp, 10x Skilling xp, 5x Drop rate
+
+Autocompleted quests:
+Alfred Grimhand's Barcrawl (Miniquest)
+Animal Magnetism (***AVA'S ACCESS***)
+Ascent of Arceuus
+Barbarian Training (Miniquest)
+Children of the Sun (***VARLAMORE ACCESS***)
+Client of Kourend
+Demon Slayer
+The Depths of Despair
+Druidic Ritual
+Ernest the Chicken
+Fairytale I - Growing Pains
+Fairytale II - Cure a Queen (***FAIRY RING ACCESS***)
+The Forsaken Tower
+Goblin Diplomacy
+The Grand Tree (***SPIRIT TREE ACCESS***)
+Holy Grail
+Horror from the Deep
+Lost City
+Merlin's Crystal (***MUSEUM 1K EXP LAMP >LVL 20***)
+Monkey Madness 1 (Can't claim exp)
+Nature Spirit
+Priest in Peril
+The Queen of Thieves
+The Restless Ghost
+Rune Mysteries
+Shield of Arrav (***MUSEUM 1K EXP LAMP >LVL 20***)
+Tale of the Righteous
+Tree Gnome Village (***GLIDER ACCESS***)
+Vampyre Slayer
+Waterfall Quest
+Witch's House
+X Marks the Spot
+
+Useful early sigils
+250 Litheness - Agil exp while running
+150 Deception - Auto repickpocket, no fail
+150 Infernal chef - 50% chance cook fish when caught
+100 Enhanced harvest - 3x Resources Mining, Fishing, WC, Farming
+100 Remote storage - Mining, Fishing, WC, Farming resources noted
+500 Efficiency - 50% chance increase, 2x resources Fishing, WC, Farming
+100 Alchemaniac - Auto recast low/high alch (need runes)
+150 Consistency - +1 damage every hit
+500 Restoration - bloodfury (10% damage dealt back)
+100 Deft strikes - 30% more accuracy against NPCs
+100 Resistance? - Monster damage reduced by 25%
+500 Nature - Choose contracts, farm patches grow instantly
+
+
+
+
+
